@@ -6,6 +6,7 @@ private class ReltrainTest {
         
     }
     /**
+    *This is a test
      * below comments are for forcing test builds
      * 2020-08-06 regression test
      */
